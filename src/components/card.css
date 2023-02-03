@@ -1,0 +1,18 @@
+.card {
+	margin: 0.2rem;
+	padding: 1rem;
+	font-size: 1rem;
+	font-weight: bold;
+	color: #fff;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	text-shadow: 1px 1px 2px #000;
+	width: 120px;
+	height: 120px;
+	border-radius: 0.5rem;
+}
+
+.card:hover {
+	opacity: 0.7;
+}
